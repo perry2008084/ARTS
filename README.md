@@ -4,15 +4,15 @@
 
 ## Algorithm
 
--[x] 201902_Week3 [判断一个输入是否为质数]()
+* 201902_Week3 [判断一个输入是否为质数](https://github.com/perry2008084/ARTS/blob/master/Algorithm/2019/201902_Week3_isPrimerNumber.md)
 
 ## Review
 
--[x] 201902_Week3 [debouncing和throttling](https://css-tricks.com/debouncing-throttling-explained-examples/)
+* 201902_Week3 [debouncing和throttling](https://github.com/perry2008084/ARTS/blob/master/Review/2019/201902_Week3_debounce-and-throttle.md)
 
 ## Tech
 
--[x] 201902_Week3 [Object.is,==,===的区别]()
+* 201902_Week3 [Object.is,==,===的区别](https://github.com/perry2008084/ARTS/blob/master/Tech/2019/201902_Week3_sameness-in-js.md)
 
 ## Share
--[x] 201902_Week3 [《未来世界的幸存者》读后感]()
+* 201902_Week3 [《未来世界的幸存者》读后感](https://github.com/perry2008084/ARTS/blob/master/Share/2019/201902_Week3_book_readding.md)
